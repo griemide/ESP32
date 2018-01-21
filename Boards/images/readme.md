@@ -2,6 +2,5 @@
 
 ![WeMos WiFi&Bluetooth Battery](WeMos-WiFi-Bluetooth-Battery-ESP32-Development-Board.jpg)
 
-![WeMos ESP32 mini](TTGO-D1-mini-ESP32 front.jpg)
-
-![WeMos ESP32 mini](TTGO-D1-mini-ESP32 back.jpg)
+![WeMos ESP32 mini](TTGO-D1-mini-ESP32-front.jpg)
+![WeMos ESP32 mini](TTGO-D1-mini-ESP32-back.jpg)

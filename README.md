@@ -6,4 +6,4 @@ ESP32 related projects
 
 
 ## Used development kits
-[Boards](/boards/) Schematic, Pin Assignments, Images
+[Boards](/Boards/readme.md) Schematic, Pin Assignments, Images

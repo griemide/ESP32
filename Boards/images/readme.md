@@ -6,3 +6,6 @@
 
 ![WeMos ESP32 mini](TTGO-D1-mini-ESP32-front.jpg)
 ![WeMos ESP32 mini](TTGO-D1-mini-ESP32-back.jpg)
+
+## TTGO LoRa 
+![TTGO LoRa](TTGO-ESP32-LoRa-back-Pinout_v2.jpg)

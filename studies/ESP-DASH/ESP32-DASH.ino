@@ -59,7 +59,7 @@
 AsyncWebServer server(80);
 
 const char* ssid = "HP LaserJet P1505n"; // Your WiFi SSID
-const char* password = "vQ1tASKOUu"; // Your WiFi Password
+const char* password = ""; // Your WiFi Password
 
 
 void sliderChanged(const char* id, int value){
